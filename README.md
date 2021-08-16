@@ -7,4 +7,4 @@ featrue1
 fbsdfjs
 ssssssssss
 我正在dev分支上开发
-我修复了一个bug
+>>>>>>> 3690831... 修复bug
